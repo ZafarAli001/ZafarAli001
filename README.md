@@ -57,6 +57,7 @@ A comprehensive, full-stack billing and invoicing solution for businesses of all
 A comprehensive, full-stack billing and invoicing solution for businesses of all sizes. Features include client management, professional invoice generation, payment tracking, and financial insights.
 
 **Tech:** React, Node.js, Express, MongoDB, TypeScript
+**Repo:** https://github.com/ZafarAli001/BillEase
 
 ### [SmartResumee](https://github.com/ZafarAli001/SmartResumee)
 AI-powered resume analyzer that parses resumes, scores them, and provides improvement suggestions using NLP.  
