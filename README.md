@@ -45,25 +45,32 @@ Full Stack Developer with a focus on building impactful web applications in **ci
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects  
 
-### [CivicOne Bhilai](https://github.com/ZafarAli001/CivicOne-Bhilai)
-A comprehensive, full-stack billing and invoicing solution for businesses of all sizes. Features include client management, professional invoice generation, payment tracking, and financial insights.  
+### CivicOne Bhilai  
+A modern web application designed to streamline communication between citizens and the Bhilai Municipal Corporation. Residents can submit complaints, track service requests, and receive real-time updates on municipal services. Built to improve civic engagement and municipal transparency.  
+
+**Tech:** TypeScript, React, Node.js, MongoDB, Vercel  
+**Repo:** https://github.com/ZafarAli001/CivicOne-Bhilai  
+
+### BillEase  
+A comprehensive, full-stack billing and invoicing solution for businesses of all sizes. Features include client management, professional invoice generation, payment tracking, and financial insights. Helps SMBs automate their billing workflows and reduce manual errors.  
 
 **Tech:** React, Node.js, Express, MongoDB, TypeScript  
-**Repo:** https://github.com/ZafarAli001/BillEase
+**Repo:** https://github.com/ZafarAli001/BillEase  
 
-### [BillEase](https://github.com/ZafarAli001/BillEase)
-A comprehensive, full-stack billing and invoicing solution for businesses of all sizes. Features include client management, professional invoice generation, payment tracking, and financial insights.
+---
 
-**Tech:** React, Node.js, Express, MongoDB, TypeScript
-**Repo:** https://github.com/ZafarAli001/BillEase
+## 🤝 Group Project
 
-### [SmartResumee](https://github.com/ZafarAli001/SmartResumee)
-AI-powered resume analyzer that parses resumes, scores them, and provides improvement suggestions using NLP.  
+### SmartResumee  
+AI-powered resume analyzer that parses resumes, scores them, and provides actionable improvement suggestions using Natural Language Processing. Features include keyword extraction, skills matching, format analysis, and industry-specific recommendations. Built to help job seekers optimize their resumes for ATS systems. Developed collaboratively with a team to implement NLP pipelines and Streamlit interface.  
+**Tech:** Python, Streamlit, NLP, SpaCy  
 
-**Tech:** Python, Streamlit, NLP  
-**Repo:** https://github.com/ZafarAli001/SmartResumee
+**Repo:** https://github.com/ZafarAli001/Smart-Resume-Analyzer  
+**Team Project** | Built with collaborative NLP modeling and UI development  
+
+
 
 ---
 
