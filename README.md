@@ -59,14 +59,21 @@ A comprehensive, full-stack billing and invoicing solution for businesses of all
 **Tech:** React, Node.js, Express, MongoDB, TypeScript  
 **Repo:** https://github.com/ZafarAli001/BillEase  
 
+### Ultimate Tic-Tac-Toe
+A modern, interactive Tic Tac Toe game built with HTML5, CSS3, and Vanilla JavaScript. Features beautiful animations, smooth gameplay, and a professional user interface.
+
+**Tech:** JavaScript, HTML5, CSS3 <br>
+**Repo:** https://github.com/ZafarAli001/Utlimate-Tic-Tac-Toe
+
 ---
 
 ## 🤝 Group Project
 
 ### SmartResumee  
-AI-powered resume analyzer that parses resumes, scores them, and provides actionable improvement suggestions using Natural Language Processing. Features include keyword extraction, skills matching, format analysis, and industry-specific recommendations. Built to help job seekers optimize their resumes for ATS systems. Developed collaboratively with a team to implement NLP pipelines and Streamlit interface.  
-**Tech:** Python, Streamlit, NLP, SpaCy  
+AI-powered resume analyzer that parses resumes, scores them, and provides actionable improvement suggestions using Natural Language Processing. Features include keyword extraction, skills matching, format analysis, and industry-specific recommendations. Built to help job seekers optimize 
+their resumes for ATS systems. Developed collaboratively with a team to implement NLP pipelines and Streamlit interface.  
 
+**Tech:** Python, Streamlit, NLP, SpaCy  
 **Repo:** https://github.com/ZafarAli001/Smart-Resume-Analyzer  
 **Team Project** | Built with collaborative NLP modeling and UI development  
 
