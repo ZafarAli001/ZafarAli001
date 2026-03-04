@@ -48,10 +48,10 @@ Full Stack Developer with a focus on building impactful web applications in **ci
 ## 🚀 Featured Projects
 
 ### [CivicOne Bhilai](https://github.com/ZafarAli001/CivicOne-Bhilai)
-A modern web application designed to streamline communication between citizens and the Bhilai Municipal Corporation. Residents can submit complaints, track service requests, and receive real-time updates on municipal services.
+A comprehensive, full-stack billing and invoicing solution for businesses of all sizes. Features include client management, professional invoice generation, payment tracking, and financial insights.  
 
-**Tech:** TypeScript, React, Node.js, MongoDB, Vercel  
-**Live:** [civic-one-bhilai.vercel.app](https://civic-one-bhilai.vercel.app)
+**Tech:** React, Node.js, Express, MongoDB, TypeScript  
+**Repo:** https://github.com/ZafarAli001/BillEase
 
 ### [BillEase](https://github.com/ZafarAli001/BillEase)
 A comprehensive, full-stack billing and invoicing solution for businesses of all sizes. Features include client management, professional invoice generation, payment tracking, and financial insights.
@@ -59,17 +59,10 @@ A comprehensive, full-stack billing and invoicing solution for businesses of all
 **Tech:** React, Node.js, Express, MongoDB, TypeScript
 
 ### [SmartResumee](https://github.com/ZafarAli001/SmartResumee)
-AI-powered resume analyzer that parses resumes, scores them, and provides improvement suggestions using NLP.
+AI-powered resume analyzer that parses resumes, scores them, and provides improvement suggestions using NLP.  
 
-**Tech:** Python, Streamlit, NLP
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZafarAli001&show_icons=true&theme=github_dark&hide_border=false&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZafarAli001&layout=compact&theme=github_dark&hide_border=false)
-![GitHub Streak](https://streak-stats.demolab.com?user=ZafarAli001&theme=github-dark&hide_border=false)
+**Tech:** Python, Streamlit, NLP  
+**Repo:** https://github.com/ZafarAli001/SmartResumee
 
 ---
 
