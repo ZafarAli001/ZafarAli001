@@ -1,94 +1,127 @@
 # Gulam Zafar Ali
 
-### Full Stack Developer | Civic Tech & SaaS Builder
+### Full-Stack Developer | MERN & Java | Civic Tech, SaaS, and Financial Systems
 
-📍 Bhilai, Chhattisgarh, India  
-📧 alizafar6232@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/zafar-ali-20770b316/) | [Portfolio](https://zafarali001.github.io) | [GitHub](https://github.com/ZafarAli001)
+<p align="left">
+  <a href="https://zafarali001.github.io/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/zafar-ali-20770b316/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:alizafar6232@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
----
+I build full-stack systems that are practical, secure, and ready to ship. My work spans civic technology, SaaS products, financial workflows, and developer-focused tools, with a strong focus on clean architecture and user-centered interfaces.
 
-## 👨‍💻 About Me
+- Final-year B.Tech Computer Science student at Rungta College of Engineering & Technology, Bhilai — graduating in 2026
+- Open to SDE internships, entry-level full-stack roles, and collaborative product work
+- 100+ problems solved on LeetCode
+- Based in Bhilai, Chhattisgarh, India; available for remote and on-site opportunities
 
-Full Stack Developer with a focus on building impactful web applications in **civic technology** and **SaaS**. Passionate about creating solutions that bridge the gap between citizens and municipal services, while also exploring AI-powered tools for productivity.
-
-- 🔭 Building **CivicOne** – a civic engagement platform for Bhilai
-- 💼 Developing **BillEase** – a full-stack billing & invoicing solution
-- 🤖 Experimenting with **AI/ML** projects for resume analysis and automation
-- 🎯 Interested in **Compiler Design**, **Network Programming**, and **Web Technologies**
-
----
-
-## 🛠️ Tech Stack
+## What I work with
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Database & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+### Backend and APIs
 
----
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0F766E?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-## 🚀 Featured Projects  
+### Data, engineering, and tools
 
-### CivicOne Bhilai  
-A modern web application designed to streamline communication between citizens and the Bhilai Municipal Corporation. Residents can submit complaints, track service requests, and receive real-time updates on municipal services. Built to improve civic engagement and municipal transparency.  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=111827)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-**Tech:** TypeScript, React, Node.js, MongoDB, Vercel  
-**Repo:** https://github.com/ZafarAli001/CivicOne-Bhilai  
+### Core strengths
 
-### BillEase  
-A comprehensive, full-stack billing and invoicing solution for businesses of all sizes. Features include client management, professional invoice generation, payment tracking, and financial insights. Helps SMBs automate their billing workflows and reduce manual errors.  
+`MERN` · `MVC architecture` · `Database design` · `Query optimization` · `JWT + RBAC` · `Geolocation` · `Async file uploads` · `Real-time status tracking` · `DSA` · `OOP` · `DBMS` · `OS` · `SDLC`
 
-**Tech:** React, Node.js, Express, MongoDB, TypeScript  
-**Repo:** https://github.com/ZafarAli001/BillEase  
+## Featured projects
 
-### Ultimate Tic-Tac-Toe
-A modern, interactive Tic Tac Toe game built with HTML5, CSS3, and Vanilla JavaScript. Features beautiful animations, smooth gameplay, and a professional user interface.
+### [FinCore — Smart Bank Kiosk](https://github.com/ZafarAli001/FinCore-SmartBank)
 
-**Tech:** JavaScript, HTML5, CSS3 <br>
-**Repo:** https://github.com/ZafarAli001/Utlimate-Tic-Tac-Toe
+A smart banking kiosk application focused on guided, self-service banking workflows. The project demonstrates how a kiosk-style interface can make common banking operations more accessible through a focused user experience and structured transaction flows.
 
----
+**Focus:** banking workflows, kiosk UX, transaction handling, and financial application design
 
-## 🤝 Group Project
+### [FinanceFlow — Expense Tracking System](https://github.com/ZafarAli001/FinanceFlow)
 
-### SmartResumee  
-AI-powered resume analyzer that parses resumes, scores them, and provides actionable improvement suggestions using Natural Language Processing. Features include keyword extraction, skills matching, format analysis, and industry-specific recommendations. Built to help job seekers optimize 
-their resumes for ATS systems. Developed collaboratively with a team to implement NLP pipelines and Streamlit interface.  
+A personal finance and expense-tracking application for organizing spending, monitoring financial activity, and turning transaction data into useful insights. Built around a clean dashboard experience and practical money-management workflows.
 
-**Tech:** Python, Streamlit, NLP, SpaCy  
-**Repo:** https://github.com/ZafarAli001/Smart-Resume-Analyzer  
-**Team Project** | Built with collaborative NLP modeling and UI development  
+**Focus:** expense tracking, financial dashboards, transaction management, and data visualization
 
+### [CivicOne Bhilai](https://github.com/ZafarAli001/CivicOne-Bhilai)
 
+A civic complaint management platform built for better communication between citizens and municipal services. Residents can submit geotagged complaints with image uploads, while administrators and officials manage workflows through role-based dashboards and status updates.
 
----
+**Tech:** React, Tailwind CSS, Node.js, Express, MongoDB, JWT, RBAC
 
-## 📫 Connect With Me
+### [DevConnect](https://github.com/ZafarAli001)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zafar-ali-20770b316/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alizafar6232@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://zafarali001.github.io)
+A social and collaboration platform for software engineers and open-source communities, combining developer profiles, project showcases, community hubs, technical blogging, events, and real-time messaging.
 
----
+**Tech:** React, Next.js, TypeScript, Tailwind CSS, Supabase, Node.js, Express
+
+### [Smart Resume Analyzer](https://github.com/ZafarAli001/Smart-Resume-Analyzer)
+
+An NLP-powered application that compares resumes with job descriptions using TF-IDF vectorization and cosine similarity. It highlights skill gaps and produces an actionable compatibility score.
+
+**Tech:** Python, Flask, NLP, machine learning
+
+### [BillEase](https://github.com/ZafarAli001/BillEase)
+
+A modular billing system with automated invoice generation, tax calculation, secure CRUD operations, and payment-status tracking for small businesses.
+
+**Tech:** React, Node.js, Express, MongoDB
+
+### [Ultimate Tic-Tac-Toe](https://github.com/ZafarAli001/Utlimate-Tic-Tac-Toe)
+
+A responsive Ultimate Tic-Tac-Toe game with nested 3×3 boards, move validation, local and global win detection, and modular game logic.
+
+**Tech:** HTML, CSS, JavaScript
+
+## Certifications
+
+- [The Complete Full-Stack Web Development Bootcamp](https://zafarali001.github.io/) — Udemy, Dr. Angela Yu, 2026
+- Azure DevOps & Continuous Delivery with Git — Udemy, Trevoir Williams, 2025
+- Azure DevOps & Continuous Delivery with Git — Infosys Springboard, 2025
+- Introduction to Cloud Computing — Infosys Springboard, 2025
+- Data Analytics Job Simulation — Deloitte × Forage, 2025
+- Cybersecurity Analyst Job Simulation — Tata Group × Forage, 2025
+- Git & GitHub Bootcamp — LetsUpgrade × NSDC × GDG MAD, 2025
+- GenAI 101 with Pieces — Pieces for Developers, 2025
+- Data Structures & Algorithms — Java — Coding Spoon
+
+## Currently learning and building
+
+- Production-grade MERN applications with secure APIs and role-based access control
+- Financial and civic-tech products that solve concrete user problems
+- System design, compiler design, network programming, and deeper Java fundamentals
+- Better testing, deployment, and software delivery practices
+
+## Let’s connect
+
+I’m interested in full-stack development, civic technology, SaaS products, financial systems, and developer tools.
+
+- Portfolio: [zafarali001.github.io](https://zafarali001.github.io/)
+- LinkedIn: [Gulam Zafar Ali](https://www.linkedin.com/in/zafar-ali-20770b316/)
+- Email: [alizafar6232@gmail.com](mailto:alizafar6232@gmail.com)
 
 <p align="center">
-  <em>Always learning, always building. Open to collaborations and opportunities in full-stack development!</em>
+  <em>Always learning, always building, always shipping.</em>
 </p>
