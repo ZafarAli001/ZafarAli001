@@ -97,14 +97,14 @@ A responsive Ultimate Tic-Tac-Toe game with nested 3×3 boards, move validation,
 
 ## Certifications
 
-- [The Complete Full-Stack Web Development Bootcamp](https://zafarali001.github.io/) — Udemy, Dr. Angela Yu, 2026
-- Azure DevOps & Continuous Delivery with Git — Udemy, Trevoir Williams, 2025
-- Azure DevOps & Continuous Delivery with Git — Infosys Springboard, 2025
-- Introduction to Cloud Computing — Infosys Springboard, 2025
-- Data Analytics Job Simulation — Deloitte × Forage, 2025
-- Cybersecurity Analyst Job Simulation — Tata Group × Forage, 2025
-- Git & GitHub Bootcamp — LetsUpgrade × NSDC × GDG MAD, 2025
-- GenAI 101 with Pieces — Pieces for Developers, 2025
+- [The Complete Full-Stack Web Development Bootcamp](https://drive.google.com/file/d/19oZRmpKhp1Vb4OwnE-BoL2vZcSRGfjfZ/view) — Udemy, Dr. Angela Yu, 2026
+- [Azure DevOps & Continuous Delivery with Git](https://drive.google.com/file/d/1tMSrqf2ewbw2NDzwvO3zsgkWYlxSbBBu/view) — Udemy, Trevoir Williams, 2025
+- [Azure DevOps & Continuous Delivery with Git](https://drive.google.com/file/d/1CbXu-_GpeLPXP1Y3maD25qOQFRW-4hFd/view) — Infosys Springboard, 2025
+- [Introduction to Cloud Computing](https://drive.google.com/file/d/1gMv0KTVD6nFO-UvrR9PhvDYw7bqB0E2x/view) — Infosys Springboard, 2025
+- [Data Analytics Job Simulation](https://drive.google.com/file/d/1rWMV-ruhzAvJETY4cCJ7aIQJ2Iu0jh47/view) — Deloitte × Forage, 2025
+- [Cybersecurity Analyst Job Simulation](https://drive.google.com/file/d/1ti7NkJdUcvSqk54xHPfJjntpxKWerlL-/view) — Tata Group × Forage, 2025
+- [Git & GitHub Bootcamp](https://drive.google.com/file/d/1yx0FZ-1Q81y96KIAiOO1aVuRBIa8M7zG/view) — LetsUpgrade × NSDC × GDG MAD, 2025
+- [GenAI 101 with Pieces](https://drive.google.com/file/d/1q601cuVMe3idBMUPnwv_AldEQsjcngNE/view) — Pieces for Developers, 2025
 - Data Structures & Algorithms — Java — Coding Spoon
 
 ## Currently learning and building
